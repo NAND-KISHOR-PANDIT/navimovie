@@ -3,5 +3,5 @@
 
 - 🔭 Navimovie developed with simple tech stack Html, CSS and Javascript only.
 - 💬 Ask about it: The database is regularly updating and new moives are visible on web.
-- 📫 How to reach me: 
+- 📫 How to reach me: [Navigate to Navimovie](https://nand-kishor-pandit.github.io/navimovie/)
 - ⚡ Fun fact: Explore Navimovie website , Search your favourite movie , read the rating and information about the trending movies. Version 2 for Navimovie is on its way. Coming Soon!!
